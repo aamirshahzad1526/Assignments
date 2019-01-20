@@ -1,0 +1,159 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.man{
+    margin: 0px;
+    padding: 0px;
+background: red
+}
+/*Navigation Style Start*/
+.nav{
+    width: 70%;
+    height: 50px;
+    
+    margin:0 auto;
+ 
+}
+.nav ul{
+     color: white;
+    position:absolute;
+}
+.nav ul li{
+    list-style: none;
+    float: left;
+    padding: 20px;
+    margin-left: 70px
+}
+.nav ul li a{
+    color: red;
+    text-decoration: none;
+    line-height: 20px;   
+
+}
+/*Navigation Style end*/
+
+.box1{
+   background: #2B2D42;
+    width: 100%;
+    height: 317px;
+    position: relative;
+        margin-top: 10px;
+}
+.CIRCLE{
+        width: 250PX;
+    height: 250px;
+    background: blue;
+    border-radius: 50%;
+    position: absolute;
+    margin: 32px 139px;
+    background-image: url(images/1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.Text {
+    width: 50%;
+    height: 230px;
+    text-align: justify;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+#underline{
+    text-decoration: underline;
+    color:red;
+}
+#background{
+ 
+    background: red;
+    width: 110px;
+    height: 25px;
+    padding: 11px;
+    color: white;
+    position: relative;
+    float: right;
+}
+
+
+.box2{
+   background:white;
+    width: 100%;
+    height: 425px;
+    position: relative;
+    
+}
+.Text2{
+       width: 300px;
+    height: 422px;
+    
+    position: absolute;
+    margin-left: 146px;
+    
+}
+.INNER-TEXT{
+   
+    WIDTH: 50%;
+    HEIGHT: 424px;
+    position: absolute;
+    margin-left: 448px;
+}
+#decoration{
+    text-decoration: underline;
+    color: red;
+}
+.box2font{
+    font-family: georgia;
+    
+}
+.box3{
+background-image: url(images/2.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    
+}
+.box3text{
+width: 340px;
+    height: 422px;
+    
+    position: absolute;
+    margin-left: 146px;
+    
+}
+.box4{
+   background: #2B2D42;
+    width: 100%;
+    height: 317px;
+    position: relative;
+    
+}
+.nav2{
+    width: 70%;
+    height: 50px;
+    
+    margin:0 auto;
+ 
+}
+.nav2 ul{
+     color: white;
+    position:absolute;
+}
+.nav2 ul li{
+    list-style: none;
+    float: left;
+    padding: 20px;
+    margin-left: 70px
+}
+.nav2 ul li a{
+    color:red;
+    text-decoration: none;
+    line-height: 20px;   
+
+}
+
+
+
+

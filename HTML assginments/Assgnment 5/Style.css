@@ -1,0 +1,27 @@
+#Header,h1{
+ background: #0000ff;
+ color:white;
+ text-align: center
+
+
+}
+h2,h3{
+color: red
+
+}
+.Boxs{
+   background: #00ffff
+
+
+}
+.inlline{
+    color: red;
+    border: 2px solid green;
+    margin: 20px;
+    background: yellow
+
+}
+.vl {
+       border-left: 3px solid darkred;
+    height: 200px;
+}

@@ -1,0 +1,41 @@
+.changepadding{
+    padding: 10px;
+}
+.changeBgcolor{
+
+    background-color: #F2F2F2;
+    
+    padding: 15px;
+   
+}
+.changeStyle{
+    background: green
+}
+.CHANGEFONT{
+    font-size: 20px;
+    font-style: BOLD;
+     color: black;
+     background: white
+}
+.MARGON{
+    margin: 15px;
+}
+.changeOfBg    {
+    background-color: #2C2C2C;
+    color: white
+}
+.changes{
+        background-color:  #2C2C2C;
+        color: white;
+        border-top: 1px solid  black;
+        
+}
+.vl {
+       border-left: 3px solid green;
+    height: 200px;
+}
+.logoSetting {
+    position: absolute;
+    margin-top: -8px;
+    margin-left: 130px;
+}

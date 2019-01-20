@@ -1,0 +1,25 @@
+.h1{
+
+    color: blue;
+}
+.paragraph{
+
+    background: green
+}
+.list{
+
+    color: lightcoral
+}
+#blue{
+    
+    color: skyblue
+
+}
+.vl {
+       border-left: 3px solid darkred;
+    height: 200px;
+}
+#darkyellow{
+
+    color: yellow
+}

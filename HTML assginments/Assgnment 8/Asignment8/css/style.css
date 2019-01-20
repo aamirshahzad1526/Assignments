@@ -1,0 +1,170 @@
+.changepadding{
+    padding: 10px;
+}
+.changeBgcolor{
+
+    background-color: #F2F2F2;
+    
+    padding: 15px;
+   
+}
+.changeStyle{
+    background: green
+}
+.CHANGEFONT{
+    font-size: 20px;
+    font-style: BOLD;
+     color: black;
+     background: white;
+     
+     
+}
+
+.changeOfBg    {
+    background-color: #2C2C2C;
+    color: white
+}
+.changes{
+        background-color:  #2C2C2C;
+        color: white;
+        border-top: 1px solid  black;
+        
+}
+.vl {
+       border-left: 3px solid green;
+    height: 200px;
+}
+.logoSetting {
+    position: absolute;
+    margin-top: -8px;
+    margin-left: 130px;
+}
+.changecoloreteh{
+    background: red
+}
+.BACKGROUD-image{
+    height: 600px;
+    width: 400px;
+
+    background-image: url(image/ad2.jpg);
+    background-size: cover;
+    }
+    .BACKGROUD-image1{
+    height: 600px;
+    width: 400px;
+    
+    background-image: url(image/ad2.jpg);
+    background-size: cover;
+    }
+    
+.PADDING21 {
+    background: #65CC33;
+    color: white;
+    width: 203px;
+    padding: 15px;
+    border-radius: 50px;
+    }
+    .active{
+       background:#65CC33;
+       color: white;
+       border-radius: 50px;
+       
+
+    }
+    .Navhover :hover{
+      background: #65CC33;
+       color: white;
+       border-radius: 50px;
+       padding: 10px;
+    }
+    .bacground-image{
+        background-image: url('../image/ad1-1.jpg');
+        background-size: cover;
+    }
+    .searchBorder{
+          border-radius: 50px;
+          border: none;
+          padding-left: 30px;
+          background-image: url('../image/musica-searcher.png');
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position-x: 170px;
+    }
+        .searchBorder1{
+          border-radius: 50px;
+          border: none;
+          padding-left: 70px;
+          background-image: url('../image/cash.png');
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position-x: 40px;
+        }
+        .bacground-image4{
+             background-image: url('../image/ad4.jpg');
+        background-size: cover;
+        width: 40%;
+    
+        height: 460px;
+    
+        }
+        .bacground-image2{
+              background-image: url('../image/ad2.jpg');
+            height: 220px;
+            background-size: cover;
+            width: 100%;
+
+        }
+        .bacground-image3{
+            
+            background-image: url('../image/ad3.jpg');
+            height: 220px;
+            background-size: cover;
+            width: 100%;
+            margin-top: 20px
+            
+        }
+        .centermarjin{
+            margin-top: 150px;
+            
+
+        }
+        .fontSize{
+            font-size: 25px;
+            color:white
+        }
+          .fontSize1{
+            font-size: 25px;
+            color:white;
+        }
+        .btnclass{
+            padding: 15px;
+            border: 4px solid yellow;
+            background: #65CC33;
+            border-radius: 50px;
+            font-size: 25px;
+            color:white
+        }
+        .btnclass1{
+             padding: 15px;
+            border: 4px solid white;
+            background: none;
+            border-radius: 50px;
+            font-size: 25px;
+            color:white;
+        }
+           .fontSize2{
+            font-size: 15px;
+            color:white;
+        }
+          .btnclass2{
+             padding: 10px;
+            border: 4px solid white;
+            background: none;
+            border-radius: 50px;
+            font-size: 20px;
+            color:white;
+        }
+    .centermarjin1{
+      margin-bottom:15px;
+      border: red;
+    }
